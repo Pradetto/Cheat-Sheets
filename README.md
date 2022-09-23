@@ -1,5 +1,10 @@
 # Cheat-Sheets
 
+### React Installs
+
+npx create-react-app appName || npm install react-router-dom || npm install @reduxjs/toolkit
+
+
 ### HTML/CSS
 |Topic(s)|
 | --- |
